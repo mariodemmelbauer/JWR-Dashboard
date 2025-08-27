@@ -46,7 +46,7 @@ def _parse_date_safe(date_str: str) -> datetime.date | None:
     return None
 
 # ========================= CONFIG =========================
-BASE_DIR = Path(r"C:\Users\demmelb-ma\OneDrive - COC AG\JWR\Analysen\2526")
+BASE_DIR = Path(r"https://coc-my.sharepoint.com/:f:/r/personal/mario_demmelbauer_coc-ag_de/Documents/JWR/Analysen/2526?csf=1&web=1&e=hmuB0r")
 LOGO_PATH = Path(r"C:\Temp\SV_Ried.png")   # Fallback-Logo
 PREFERRED_TEAM = "JWR"
 
